@@ -3,9 +3,6 @@
 </div>
 <img src="https://i.imgur.com/qhno9Ak.png">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Asbelit0/Asbelit0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Asbelit0/Asbelit0/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 ## Sobre mi
 
 - ⭐ Analista de Ciberseguridad
