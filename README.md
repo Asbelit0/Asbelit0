@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- ⭐ Analista de Ciberseguridad
-- 📲 Redes y Comunicaciones
+- 📲 Network Analyst
+- 📲 Cybersecurity
 
 <br>
